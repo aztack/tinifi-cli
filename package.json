@@ -1,6 +1,6 @@
 {
-  "name": "tinify-cli",
-  "version": "1.0.0",
+  "name": "tinifi-cli",
+  "version": "1.0.1",
   "description": "A Tinify CLI",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aztack/tinify-cli.git"
+    "url": "git+https://github.com/aztack/tinifi-cli.git"
   },
   "keywords": [
     "tinypng",
@@ -22,9 +22,9 @@
   "author": "aztack@163.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aztack/tinify-cli/issues"
+    "url": "https://github.com/aztack/tinifi-cli/issues"
   },
-  "homepage": "https://github.com/aztack/tinify-cli#readme",
+  "homepage": "https://github.com/aztack/tinifi-cli#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^5.1.0",
